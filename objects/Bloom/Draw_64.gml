@@ -1,4 +1,3 @@
-/// @description 
 //Texture info
 var surfTex = surface_get_texture(application_surface);
 var texelW = texture_get_texel_width(surfTex);
@@ -6,7 +5,7 @@ var texelH = texture_get_texel_height(surfTex);
 
 //Surface
 var bloomSurf = surface_create(surface_get_width(application_surface),
-                                surface_get_height(application_surface));
+                               surface_get_height(application_surface));
 
 //Draw app surface on bloom surf                                
 surface_set_target(bloomSurf);
@@ -28,4 +27,3 @@ surface_reset_target();
 //Draw bloom surf
 draw_surface(bloomSurf, 0, 0);
 surface_free(bloomSurf);
-

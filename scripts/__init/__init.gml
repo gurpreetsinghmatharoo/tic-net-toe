@@ -1,15 +1,15 @@
-enum game_states{
+enum game_states {
 	idle,
 	server,
 	client
 }
 
-enum player_types{
+enum player_types {
 	x,
 	o
 }
 
-enum gameboard_states{
+enum gameboard_states {
 	my_turn,
 	waiting
 }
@@ -25,4 +25,4 @@ enum gameboard_states{
 
 global._is_server = false;
 
-gml_pragma("global","__init()");
+gml_pragma("global", "__init()");
