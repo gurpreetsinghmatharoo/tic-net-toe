@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "1183c1a9-4726-43d6-9edf-86a4ee8a6c5d",
+            "Value": {
+                "id": "7d06140a-6c9b-41af-b702-e181d396eef8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/libMyLib.so.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "13a916b5-31b7-42a3-b3fb-304401a082c7",
             "Value": {
                 "id": "7f52c960-143a-44a5-963b-0c5074ffacb5",
@@ -188,6 +207,25 @@
                 ],
                 "resourcePath": "scripts\/send_input\/send_input.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1dfc63c1-51f6-4b17-bda4-693d1eaa733c",
+            "Value": {
+                "id": "76394dbf-0b44-436e-a056-4676fc0e732c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/libMyLib.dylib.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -378,6 +416,25 @@
                 ],
                 "resourcePath": "scripts\/on_disconnect\/on_disconnect.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6514312c-325b-4bff-b314-da161ee3b163",
+            "Value": {
+                "id": "2452b5ff-c874-4ca1-b609-20c8e92c5c18",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/MyLib.dll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -853,6 +910,25 @@
                 ],
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4a9d1c4-35b4-4618-a2c9-65c9ca164973",
+            "Value": {
+                "id": "d9b50f72-5f10-4370-b42c-dc0d7ed28610",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/LanIP\/LanIP.yy",
+                "resourceType": "GMScript"
             }
         },
         {
