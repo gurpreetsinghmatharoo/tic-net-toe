@@ -1,4 +1,5 @@
-remote_ip = "localhost";
+remote_ip = global.server_ip;
+show_debug_message("remote_ip:" + remote_ip);
 remote_port = 5000;
 
 client = network_create_socket(network_socket_tcp);

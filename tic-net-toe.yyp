@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "358b4d33-efb1-4c22-a8bd-8d2b1c41d46d",
+            "Value": {
+                "id": "b0b2b218-428d-4c71-8bc5-203a645416de",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Input\/Input.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b758a22-e9aa-48da-9bbb-25fae4ff3b1f",
             "Value": {
                 "id": "7535e134-fdb5-4a46-8be1-99570aafd9a0",
@@ -1046,6 +1065,25 @@
             }
         },
         {
+            "Key": "f77a26bc-9154-4ac6-af39-33edc547c099",
+            "Value": {
+                "id": "2fbead1b-98ef-4774-9702-9a4f32608dea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_input\/spr_input.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f84b79e5-3ba2-44fc-90fe-95cc7def3845",
             "Value": {
                 "id": "67ff350c-8618-465a-ace5-75177dec53f4",
@@ -1119,7 +1157,8 @@
         "e9daec14-5d3e-4df7-8996-16d531a8a8bd",
         "0d8d9bce-6f00-4e59-a550-07f75f924e6e",
         "64f60e91-94ee-45a7-b323-f6106c9e857a",
-        "6d42e1f6-6562-4e77-b4b6-b3400eecdb85"
+        "6d42e1f6-6562-4e77-b4b6-b3400eecdb85",
+        "e4a9d1c4-35b4-4618-a2c9-65c9ca164973"
     ],
     "tutorial": ""
 }
