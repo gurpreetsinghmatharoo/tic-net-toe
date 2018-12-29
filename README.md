@@ -6,6 +6,7 @@ A good starter project for getting into TCP networking in GameMaker Studio v2. F
 Here are some screenshots:<br>
 <img src="screenshots/start.png" width="200">
 <img src="screenshots/server_started.png" width="200">
+<img src="screenshots/enterserver.png" width="200">
 <img src="screenshots/myturn.png" width="200">
 <img src="screenshots/notmyturn.png" width="200">
 
@@ -19,4 +20,7 @@ Here are some screenshots:<br>
 		<li>From a windows pc command prompt, run: `netstat -an | findstr 5000`
 	</ul>
 <li>You may need to open up a port on your firewall to allow other computers to connect.
+<li>Some code was added to determine the server local ip. See 
+<a href="https://github.com/mkinney/GetLanIP/tree/master/libs">this repo</a>
+ for more info.
 </ul>
